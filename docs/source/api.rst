@@ -4,4 +4,4 @@ API
 .. autosummary::
    :toctree: generated
 
-   Lumache
+   NorESM2.2
