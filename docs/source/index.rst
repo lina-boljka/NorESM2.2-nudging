@@ -1,4 +1,4 @@
-NorESM2.2 - Regional Nudging Implementation
+Regional Nudging in NorESM2.2
 ===================================
 
 This page is not yet operational!
