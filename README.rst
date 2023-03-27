@@ -22,6 +22,6 @@ Click the badge to see the (previous) documentation - this will need to be updat
       
 To see the latest version of the website click this link:
 
-https://noresm22-nudging.readthedocs.io/en/latest/#
+https://noresm22-nudging.readthedocs.io/en/latest
 
 https://readthedocs.org
