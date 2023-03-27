@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'NorESM2.2'
+project = 'Lumache'
 copyright = 'UiB, BCCR'
 author = 'Lina Boljka'
 
