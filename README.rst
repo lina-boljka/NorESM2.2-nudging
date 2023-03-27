@@ -14,7 +14,8 @@ https://noresm22-nudging.readthedocs.io/en/latest/
 https://readthedocs.org
 
 
-documentation available here: .. image:: https://readthedocs.org/projects/noresm22-nudging/badge/?version=latest
+documentation available here: 
+.. image:: https://readthedocs.org/projects/noresm22-nudging/badge/?version=latest
     :target: https://noresm22-nudging.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
       
