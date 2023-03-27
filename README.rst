@@ -9,10 +9,6 @@ Read the tutorial here:
 https://docs.readthedocs.io/en/stable/tutorial/
 
 
-https://noresm22-nudging.readthedocs.io/en/latest/ 
-
-https://readthedocs.org
-
 
 Click the badge to see the documentation: 
 
@@ -20,3 +16,6 @@ Click the badge to see the documentation:
     :target: https://noresm22-nudging.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
       
+https://noresm22-nudging.readthedocs.io/en/latest/ 
+
+https://readthedocs.org
