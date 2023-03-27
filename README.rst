@@ -12,3 +12,7 @@ https://docs.readthedocs.io/en/stable/tutorial/
 https://noresm22-nudging.readthedocs.io/en/latest/ 
 
 https://readthedocs.org
+
+
+[![Documentation Status](https://readthedocs.org/projects/noresm22-nudging/badge/?version=latest)](https://noresm22-nudging.readthedocs.io/en/latest/?badge=latest)
+      
